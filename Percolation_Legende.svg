@@ -16,6 +16,20 @@
    sodipodi:docname="Percolation_Legende.svg">
   <defs
      id="defs17434">
+    <marker
+       style="overflow:visible"
+       id="marker18465"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#6da9d6;fill-opacity:1;fill-rule:evenodd;stroke:#6da9d6;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path18463" />
+    </marker>
     <rect
        x="136.75541"
        y="67.763855"
@@ -37,6 +51,21 @@
          style="fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke:#141414;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path5819" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5821-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#e40000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5819-5" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -45,9 +74,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="93.075677"
-     inkscape:cy="365.26923"
+     inkscape:zoom="3.959798"
+     inkscape:cx="453.67781"
+     inkscape:cy="520.258"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -72,7 +101,7 @@
        orientation="0,-1"
        id="guide18369" />
     <sodipodi:guide
-       position="68.886159,170.47247"
+       position="72.903685,170.47247"
        orientation="0,-1"
        id="guide18371" />
   </sodipodi:namedview>
@@ -137,66 +166,93 @@
     </g>
     <path
        style="display:inline;fill:none;stroke:#141414;stroke-width:0.404616;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.61846, 0.809231;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5821)"
-       d="m 67.44889,126.56458 7.147472,0.002"
+       d="m 67.44889,127.83159 7.147472,0.002"
        id="path5793"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="80.431618"
+       x="80.217285"
        y="79.926277"
        id="text18337"><tspan
          sodipodi:role="line"
          id="tspan18335"
-         x="80.431618"
+         x="80.217285"
          y="79.926277"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583">Gesunde Person</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="80.270752"
+       x="80.056419"
        y="96.847275"
        id="text18341"><tspan
          sodipodi:role="line"
          id="tspan18339"
-         x="80.270752"
+         x="80.056419"
          y="96.847275"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583">Infizierte Person</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="80.270752"
+       x="80.056419"
        y="111.97506"
        id="text18345"><tspan
          sodipodi:role="line"
          id="tspan18343"
-         x="80.270752"
+         x="80.056419"
          y="111.97506"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583">Infizierte, positiv getestete</tspan><tspan
          sodipodi:role="line"
-         x="80.270752"
+         x="80.056419"
          y="117.30806"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
          id="tspan18347">Person</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="80.639053"
-       y="125.61918"
+       x="80.056419"
+       y="128.86205"
        id="text18353"><tspan
          sodipodi:role="line"
-         x="80.639053"
-         y="125.61918"
+         x="80.056419"
+         y="128.86205"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
-         id="tspan18351">Kontakt mit möglicher </tspan><tspan
-         sodipodi:role="line"
-         x="80.639053"
-         y="130.95218"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
-         id="tspan18357">Ansteckung</tspan></text>
+         id="tspan18357">Kontakt ohne Ansteckung</tspan></text>
     <text
        xml:space="preserve"
        id="text18359"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect18361);" />
+    <path
+       style="display:inline;fill:#e40000;fill-opacity:1;stroke:#ff0000;stroke-width:0.404617;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.61846, 0.809231;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5821-6)"
+       d="m 67.280303,136.85135 7.147472,0.002"
+       id="path5793-6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.056419"
+       y="137.88181"
+       id="text18353-3"><tspan
+         sodipodi:role="line"
+         x="80.056419"
+         y="137.88181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
+         id="tspan18357-4">Kontakt mit Ansteckung</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#6da9d6;stroke-width:0.404617;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.61846, 0.80923100000000003;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker18465)"
+       d="m 67.280303,145.87112 7.147472,0.002"
+       id="path18455"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.056419"
+       y="146.90158"
+       id="text18461"><tspan
+         sodipodi:role="line"
+         x="80.056419"
+         y="146.90158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
+         id="tspan18459">Nach Test vermiedene Kontakte</tspan></text>
   </g>
 </svg>
